@@ -1,0 +1,39 @@
+
+
+
+.card {
+    border: none;
+    border-radius: 1rem;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.btn-outline-light {
+    border-color: #ffffff;
+    color: #ffffff;
+    transition: all 0.3s;
+}
+
+.btn-outline-light:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.text-white-50:hover {
+    color: #ffffff;
+}
+
+.form-control {
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    border-radius: 0.5rem;
+    color: #ffffff;
+}
+
+.form-control:focus {
+    background: rgba(255, 255, 255, 0.2);
+    color: #ffffff;
+}
+
+.form-label {
+    color: #ffffff;
+}
